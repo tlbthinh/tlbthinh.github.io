@@ -8,7 +8,7 @@ last_name: Tran
 # contact_note: >
 #   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website of Thinh Tran — software engineer and researcher in computer vision, generative AI, and backend systems.
+  Personal website of Thinh Tran — software engineer and researcher in computer vision.
 # footer_text: >
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -84,7 +84,7 @@ al_folio:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -335,8 +335,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Tran-Le, Tran]
-  first_name: [Ba-Thinh, B.-T., B., Thinh]
+  last_name: [Tran-Le]
+  first_name: [Ba-Thinh, B.-T., B. T.]
 
   style: apa
   locale: en

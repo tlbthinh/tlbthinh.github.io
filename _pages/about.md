@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 
 # profile:
@@ -17,14 +17,34 @@ social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 20 # leave blank to include all the news in the `_news` folder
 ---
+
+<style>
+  /* hide the auto-generated page title */
+  .post-title { display: none; }
+
+  /* capitalize the section headings */
+  h2 > a[href="/news/"],
+  h2 > a[href="/blog/"],
+  h2 > a[href="/publications/"] {
+    text-transform: capitalize;
+  }
+
+  /* show your name in bold instead of underlined */
+  .publications .author > em {
+    border-bottom: none !important;
+    font-weight: 700;
+  }
+</style>
+
+<style>
+  .publications .author > em {
+    border-bottom: none !important;
+    font-weight: 700;
+  }
+</style>
 
 <style>
   .post-title { display: none; }
