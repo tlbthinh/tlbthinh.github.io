@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper <strong>How does LLM-powered coding assistance shape incidental learning? Exploring cognitive forcing strategies in programming education</strong> was accepted at AAAI/EAAI 2026.
+My paper <strong style="font-weight: 600;">How does LLM-powered coding assistance shape incidental learning? Exploring cognitive forcing strategies in programming education</strong> was accepted at AAAI/EAAI 2026.

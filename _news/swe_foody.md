@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined <a href="https://www.foody.vn/" style="color: #E0282E; font-weight: 600;">Foody</a> (now ShopeeFood) as a Data Engineer Intern.
+Joined <a href="https://www.foody.vn/" style="color: #C8102E; font-weight: 600;">Foody</a> (now ShopeeFood) as a Data Engineer Intern.

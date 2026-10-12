@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My research on traffic video retrieval by natural-language query won <strong>First Prize</strong> at the Euréka Scientific Research Award, a national student research competition in Vietnam.
+<a href="/blog/2021/eureka/">My research on traffic video retrieval won First Prize at the Euréka Scientific Research Award, a national competition held by Vietnam's Ministry of Science and Technology.</a>
