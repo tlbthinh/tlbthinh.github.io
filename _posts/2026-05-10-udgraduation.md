@@ -4,7 +4,7 @@ title: Graduating from the University of Dayton
 date: 2026-05-10
 description: Two years that gave me more than a degree.
 tags: [graduation, university-of-dayton]
-categories: milestones
+categories: [milestones]
 ---
 
 I graduated with an M.S. in Computer Science from the University of Dayton today.
