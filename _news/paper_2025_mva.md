@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper <strong style="font-weight: 600;">Towards safer roads: benchmarking object detection models in complex weather scenarios</strong> was accepted in Machine Vision and Applications.
+My paper benchmarking object detection in adverse weather was accepted in <strong style="font-weight: 600;">Machine Vision and Applications 2025</strong>.
