@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated with an M.S. in Computer Science from the University of Dayton.
+<a href="/blog/2026/udgraduation/">Graduated with an M.S. in Computer Science from the University of Dayton.</a>
